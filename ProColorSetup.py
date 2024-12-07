@@ -1,0 +1,2 @@
+KAnt = 'hum'
+PoOh = 'Smart'
